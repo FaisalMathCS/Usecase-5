@@ -65,7 +65,7 @@ third = '''
 
 st.html(third)
 
-st.image('jobs_per_gender.png')
+st.image('jobs_per_region.png')
 
 
 
