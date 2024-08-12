@@ -48,8 +48,9 @@ second = '''
 
 st.html(second)
 
-#First
-st.image('jobs_per_gender.png')
+
+
+st.image('jobs_per_region.png')
 
 
 
